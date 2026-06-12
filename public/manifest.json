@@ -1,0 +1,38 @@
+{
+  "name": "Sudhanshu Digital Services",
+  "short_name": "Sudhanshu Digital",
+  "description": "Premium Website Development, Resume Rewrite, LinkedIn Optimization & Career Mentorship by Sudhanshu Kumar Singh.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#06040f",
+  "theme_color": "#7c3aed",
+  "categories": ["business", "education", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Book Free Consultation",
+      "url": "/#/contact",
+      "description": "Book a free 30-minute consultation"
+    },
+    {
+      "name": "View Services",
+      "url": "/#/services",
+      "description": "Explore all services and pricing"
+    }
+  ]
+}
